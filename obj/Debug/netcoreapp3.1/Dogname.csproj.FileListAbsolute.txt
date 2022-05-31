@@ -1,0 +1,13 @@
+/Users/elijahlennon/Desktop/csharp27/repos/Dogname/Dogname/bin/Debug/netcoreapp3.1/Dogname.deps.json
+/Users/elijahlennon/Desktop/csharp27/repos/Dogname/Dogname/bin/Debug/netcoreapp3.1/Dogname.runtimeconfig.json
+/Users/elijahlennon/Desktop/csharp27/repos/Dogname/Dogname/bin/Debug/netcoreapp3.1/Dogname.runtimeconfig.dev.json
+/Users/elijahlennon/Desktop/csharp27/repos/Dogname/Dogname/bin/Debug/netcoreapp3.1/Dogname.dll
+/Users/elijahlennon/Desktop/csharp27/repos/Dogname/Dogname/bin/Debug/netcoreapp3.1/Dogname.pdb
+/Users/elijahlennon/Desktop/csharp27/repos/Dogname/Dogname/obj/Debug/netcoreapp3.1/Dogname.csproj.AssemblyReference.cache
+/Users/elijahlennon/Desktop/csharp27/repos/Dogname/Dogname/obj/Debug/netcoreapp3.1/Dogname.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elijahlennon/Desktop/csharp27/repos/Dogname/Dogname/obj/Debug/netcoreapp3.1/Dogname.AssemblyInfoInputs.cache
+/Users/elijahlennon/Desktop/csharp27/repos/Dogname/Dogname/obj/Debug/netcoreapp3.1/Dogname.AssemblyInfo.cs
+/Users/elijahlennon/Desktop/csharp27/repos/Dogname/Dogname/obj/Debug/netcoreapp3.1/Dogname.csproj.CoreCompileInputs.cache
+/Users/elijahlennon/Desktop/csharp27/repos/Dogname/Dogname/obj/Debug/netcoreapp3.1/Dogname.dll
+/Users/elijahlennon/Desktop/csharp27/repos/Dogname/Dogname/obj/Debug/netcoreapp3.1/Dogname.pdb
+/Users/elijahlennon/Desktop/csharp27/repos/Dogname/Dogname/obj/Debug/netcoreapp3.1/Dogname.genruntimeconfig.cache
